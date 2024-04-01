@@ -4,42 +4,49 @@
       "id": 1,
       "conteudo": "A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos.",
       "autoria": "Charles Chaplin",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos.",
       "autoria": "Charles Chaplin",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos.",
       "autoria": "Charles Chaplin",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "teste1",
       "autoria": "autora",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "conteudo": "que a força esteja com voce",
       "autoria": "mestre yoda",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 5
     },
     {
       "id": 6,
       "conteudo": "teste",
       "autoria": "autor",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "teste",
       "autoria": "o testador",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 7
     }
   ]
